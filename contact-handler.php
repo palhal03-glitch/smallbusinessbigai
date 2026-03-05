@@ -89,3 +89,4 @@ if (!$mailSent) {
 
 header('Location: ' . $redirectSuccess);
 exit;
+
